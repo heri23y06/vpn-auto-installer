@@ -1,1 +1,1 @@
-# -vpn-auto-installer
+# vpn-auto-installer
